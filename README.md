@@ -64,7 +64,5 @@ Here are a few highlights from my portfolio:
   </a>
 </p>
 
-<p>
-  📧 Email: <a href="mailto:adityaavenkataraman192@gmail.com">adityaavenkataraman192@gmail.com</a>
-</p>
+
 
