@@ -33,9 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
 </p>
 
-<p align="center">
-  <strong>Python · SQL · Apache Spark · MongoDB · Tableau · NumPy · Pandas · Jupyter · VS Code · Git</strong>
-</p>
+
 
 ---
 
