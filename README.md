@@ -3,7 +3,7 @@
 <!--
 **adityaavenkataraman192/adityaavenkataraman192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+-->
 
 🎓 Data Science Graduate Student @ UMBC | 📊 Data Analyst | 🤖 Aspiring AI Engineer
 
@@ -63,4 +63,4 @@ Here are some featured projects I've worked on:
 
 Thanks for visiting my profile! 😊
 
--->
+
