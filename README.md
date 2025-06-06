@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
+<p >
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="SQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="50" height="50"/>
@@ -52,8 +52,18 @@ Here are a few highlights from my portfolio:
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adityaa-venkataraman)
-- 📝 [Medium](https://medium.com/@adityaavenkataraman192)
-- 📧 Email: adityaavenkataraman192@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityaa-venkataraman" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@adityaavenkataraman192" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 Email: <a href="mailto:adityaavenkataraman192@gmail.com">adityaavenkataraman192@gmail.com</a>
+</p>
 
 Thanks for stopping by! 😊
