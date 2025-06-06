@@ -59,7 +59,7 @@ Here are a few highlights from my portfolio:
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@adityaavenkataraman192"  target="_blank">
+  <a href="https://medium.com/@adityaavenkat1907"  target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium"/>
   </a>
 </p>
