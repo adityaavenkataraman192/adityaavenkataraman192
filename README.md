@@ -55,16 +55,16 @@ Here are a few highlights from my portfolio:
 ## 📫 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/adityaa-venkataraman" target="https://www.linkedin.com/in/adityaa-venkataraman-96a6871a8/">
+  <a href="[https://www.linkedin.com/in/adityaa-venkataraman](https://www.linkedin.com/in/adityaa-venkataraman-96a6871a8/)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@adityaavenkataraman192" target="_blank">
+  <a href="<a href="https://medium.com/@adityaavenkataraman192" target="https://medium.com/@adityaavenkat1907">" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   📧 Email: <a href="mailto:adityaavenkataraman192@gmail.com">adityaavenkataraman192@gmail.com</a>
 </p>
 
