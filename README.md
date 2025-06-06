@@ -1,23 +1,20 @@
-## Hi there 👋
+<h1 align="center">
+  👋 Hi, I'm Adityaa Venkataraman
+</h1>
 
-<!--
-**adityaavenkataraman192/adityaavenkataraman192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-🎓 Data Science Graduate Student @ UMBC | 📊 Data Analyst | 🤖 Aspiring AI Engineer
-
-Welcome to my GitHub! I'm passionate about turning data into insights and building intelligent systems. I enjoy working on real-world problems with data-driven approaches, and I'm always exploring new tools and technologies in the AI/ML space.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst;Data+Scientist;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently pursuing my Master’s in **Data Science**
-- 🧠 Interests: Machine Learning, Generative AI (RAG), Big Data, and Data Visualisation
-- 📂 Skilled in: Python, SQL, PySpark, MongoDB, Scikit-learn, Tableau
-- 📈 Strong foundation in: EDA, Predictive Modelling, Clustering, and Statistical Analysis
-- 🛠️ Tools: Jupyter, Databricks, VS Code, Git, Anaconda
+- 🎓 Master’s in **Data Science** @ UMBC
+- 🧠 Passionate about turning data into insights and building intelligent systems
+- 💡 Interests: Machine Learning, Generative AI (RAG), Big Data, and Visualization
+- 📊 Strong skills in: EDA, Predictive Modeling, Clustering, Statistical Analysis
+- 🛠️ Tools of the trade: Python, SQL, MongoDB, PySpark, Tableau, Scikit-learn
 
 ---
 
@@ -44,14 +41,14 @@ Welcome to my GitHub! I'm passionate about turning data into insights and buildi
 
 ## 💼 Projects
 
-Here are some featured projects I've worked on:
+Here are a few highlights from my portfolio:
 
-- 🔍 [Mobile User Behavior Analytics](#): Segmentation, engagement insights, churn prediction
-- 🥦 [Nutri-Scan: AI Food Freshness Classifier](#): CNN + MongoDB + Spark-based classification of fruits/vegetables
-- 🤖 [RAG-Based GenAI Assistant](#): A retrieval-augmented generation project using Hugging Face and vector search
-- 📊 [Life Expectancy Analysis](#): Regression modeling, EDA, residual analysis
+- 🔍 **[Mobile User Behavior Analytics](#)**: Segment users based on app usage, churn prediction, behavioral clustering
+- 🥦 **[Nutri-Scan: AI Food Freshness Classifier](#)**: CNN-based model classifying fruits/vegetables as fresh or rotten using MongoDB + PySpark
+- 🤖 **[GenAI RAG System](#)**: Retrieval-augmented generation assistant built using Hugging Face transformers
+- 📊 **[Life Expectancy Analysis](#)**: Exploratory data analysis + regression to understand factors influencing life expectancy
 
-👉 Check out more projects in my [repositories](https://github.com/adityaavenkataraman192?tab=repositories)
+👉 Explore more in my [repositories](https://github.com/adityaavenkataraman192?tab=repositories)
 
 ---
 
@@ -61,6 +58,4 @@ Here are some featured projects I've worked on:
 - 📝 [Medium](https://medium.com/@adityaavenkataraman192)
 - 📧 Email: adityaavenkataraman192@gmail.com
 
-Thanks for visiting my profile! 😊
-
-
+Thanks for stopping by! 😊
