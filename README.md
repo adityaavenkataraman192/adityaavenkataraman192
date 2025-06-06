@@ -3,8 +3,7 @@
 <!--
 **adityaavenkataraman192/adityaavenkataraman192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-# 👋 Hi, I'm Adityaa Venkataraman
+
 
 🎓 Data Science Graduate Student @ UMBC | 📊 Data Analyst | 🤖 Aspiring AI Engineer
 
@@ -15,9 +14,9 @@ Welcome to my GitHub! I'm passionate about turning data into insights and buildi
 ## 🚀 About Me
 
 - 🌱 Currently pursuing my Master’s in **Data Science**
-- 🧠 Interests: Machine Learning, Generative AI (RAG), Big Data, and Data Visualization
+- 🧠 Interests: Machine Learning, Generative AI (RAG), Big Data, and Data Visualisation
 - 📂 Skilled in: Python, SQL, PySpark, MongoDB, Scikit-learn, Tableau
-- 📈 Strong foundation in: EDA, Predictive Modeling, Clustering, and Statistical Analysis
+- 📈 Strong foundation in: EDA, Predictive Modelling, Clustering, and Statistical Analysis
 - 🛠️ Tools: Jupyter, Databricks, VS Code, Git, Anaconda
 
 ---
