@@ -22,7 +22,9 @@
 
 <p >
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" alt="R"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="SQL"/>
+   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
@@ -52,8 +54,8 @@ Here are a few highlights from my portfolio:
 
 ## 📫 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adityaa-venkataraman" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/adityaa-venkataraman" target="https://www.linkedin.com/in/adityaa-venkataraman-96a6871a8/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -66,4 +68,3 @@ Here are a few highlights from my portfolio:
   📧 Email: <a href="mailto:adityaavenkataraman192@gmail.com">adityaavenkataraman192@gmail.com</a>
 </p>
 
-Thanks for stopping by! 😊
