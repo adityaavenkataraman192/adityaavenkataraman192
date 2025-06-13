@@ -43,9 +43,8 @@
 
 Here are a few highlights from my portfolio:
 
-- 🔍 **[Mobile User Behavior Analytics](#)**: Segment users based on app usage, churn prediction, behavioral clustering
+- 🔍 **[Mobile User Behaviour Analytics](#)**: Segment users based on app usage, churn prediction, behavioral clustering
 - 🥦 **[Nutri-Scan: AI Food Freshness Classifier](#)**: CNN-based model classifying fruits/vegetables as fresh or rotten using MongoDB + PySpark
-- 🤖 **[GenAI RAG System](#)**: Retrieval-augmented generation assistant built using Hugging Face transformers
 - 📊 **[Life Expectancy Analysis](#)**: Exploratory data analysis + regression to understand factors influencing life expectancy
 
 👉 Explore more in my [repositories](https://github.com/adityaavenkataraman192?tab=repositories)
