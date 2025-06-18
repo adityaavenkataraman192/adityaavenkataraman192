@@ -30,17 +30,17 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" alt="R"/>
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" alt="Apache Spark"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" title="R" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" title="Apache Spark" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" title="NumPy" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" title="Pandas" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" title="Jupyter Notebook" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git" />
 </p>
 
 ---
