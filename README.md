@@ -22,7 +22,7 @@
 
 ## 🧠 Recent Blog Posts
 
-- 🏅 [Mastering SQL through Olympic Data Analysis](https://medium.com/@adityaavenkat1907/mastering-sql-through-olympic-data-analysis-my-learning-journey-as-a-data-analyst-37c646179a0c)
+- 🏅 [Mastering SQL through Olympic Data Analysis](https://medium.com/@adityaavenkat1907/mastering-sql-through-olympic-data-analysis-my-learning-journey-as-a-data-analyst-37c646179a0c)  
 - 📈 [My Journey to Becoming a Data Analyst](https://medium.com/@adityaavenkat1907/my-journey-to-becoming-a-data-analyst-52f2ac2abfcb)
 
 ---
@@ -66,6 +66,20 @@
 | 📊 [Life Expectancy Analysis](#) | Regression & EDA to study global health trends | Pandas, Stats |
 
 👉 See all projects in [My Repositories »](https://github.com/adityaavenkataraman192?tab=repositories)
+
+---
+
+## 🏆 Certifications & Badges
+
+- 🎓 **Google Data Analytics Professional Certificate** – Coursera  
+- 🏅 **SQL 50 Badge** – LeetCode  
+
+---
+
+## 💡 Quote of the Day
+
+> *"The best way to predict the future is to invent it."*  
+> — Alan Kay
 
 ---
 
