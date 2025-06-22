@@ -37,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" title="Apache Spark" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jira-is-the-most-popular-agile-project-management-tool-logo-shadow-tal-revivo.png" title="JIRA" alt="JIRA"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" title="NumPy" />&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" title="Pandas" />&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" title="Jupyter Notebook" />&nbsp;&nbsp;&nbsp;
@@ -79,5 +80,9 @@
   &nbsp;
   <a href="https://medium.com/@adityaavenkat1907" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/adityaavenkat1907/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" alt="LeetCode"/>
   </a>
 </p>
