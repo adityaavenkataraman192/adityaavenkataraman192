@@ -75,15 +75,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityaa-venkataraman-96a6871a8/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
   <a href="https://medium.com/@adityaavenkat1907" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=medium" />
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/adityaavenkat1907/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-SQL?style=for-the-badge&logo=leetcode" />
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-SQL-orange?style=for-the-badge&logo=leetcode" />
   </a>
   &nbsp;
   <a href="https://public.tableau.com/app/profile/adityaa.venkataraman/vizzes" target="_blank">
