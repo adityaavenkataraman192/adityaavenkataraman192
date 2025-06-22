@@ -44,19 +44,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaavenkataraman192&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaavenkataraman192&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaavenkataraman192&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 💼 Featured Projects
 
 | Project | Description | Tech |
