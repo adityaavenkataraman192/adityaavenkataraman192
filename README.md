@@ -86,3 +86,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" alt="LeetCode"/>
   </a>
 </p>
+
+<p align="center">
+  📊 Explore my dashboards on  
+  <a href="https://public.tableau.com/app/profile/adityaa.venkataraman/vizzes" target="_blank"><b>Tableau Public</b></a>
+</p>
